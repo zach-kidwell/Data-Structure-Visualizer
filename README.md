@@ -18,10 +18,15 @@ The application then renders the chosen structure with custom-drawn shapes and c
 ## Screenshots
 
 Launching the application:
+
 ![Popup Example](screenshots/Popup.png)
+
 Inputting Values for a Tree:
+
 ![Inputting Values](screenshots/Input.png)
+
 The generated Tree:
+
 ![Generated Tree](screenshots/Tree.png)
 
 ## Technologies Used
@@ -31,3 +36,4 @@ The generated Tree:
 
 ## Author
 Zach Kidwell
+
